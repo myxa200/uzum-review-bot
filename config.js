@@ -1,0 +1,8 @@
+module.exports = {
+  TELEGRAM_TOKEN: "8039528436:AAFjueirJdQTG-zPA_gm4nxqpGkWJBaepFs",
+  TELEGRAM_CHAT_ID: "6547279864",
+  SPREADSHEET_ID: "1Ey4PpBQ4M7Oe0rx_KfLftphWEkYh7Pl0W1FPvNeP21Q",
+  SHEET_NAME: "Bearer",
+  HISTORY_SHEET_NAME: "SentReviews",
+  GOOGLE_SERVICE_ACCOUNT: "сюда вставим позже json для Google API"
+};
